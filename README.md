@@ -1,6 +1,4 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Nuxt 3 Threads App (Prisma, Supabase, Tailwind CSS)
 
 ## Setup
 
@@ -17,47 +15,13 @@ pnpm install
 yarn install
 ```
 
-## Development Server
+## Copy .env.example into .env file and fill it
 
-Start the development server on `http://localhost:3000`:
+## Screenshots
 
-```bash
-# npm
-npm run dev
+![photo_2023-08-15_23-54-27](https://github.com/aismoilov/nuxt-threads-app/assets/66421016/377aeb94-1ced-466b-b6bd-5a6ef8aace64)
 
-# pnpm
-pnpm run dev
+![photo_2023-08-15_23-55-21](https://github.com/aismoilov/nuxt-threads-app/assets/66421016/b6532a17-4e90-4c83-ae3b-76215e2c34a7)
 
-# yarn
-yarn dev
-```
+![photo_2023-08-15_23-59-03](https://github.com/aismoilov/nuxt-threads-app/assets/66421016/e5282e8e-ca2e-4f50-b1a8-ad398990283d)
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
